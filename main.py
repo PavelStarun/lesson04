@@ -3,3 +3,4 @@ for i in range():
 a, b = 9, 8
 c = 87
 d = 556
+v = "Hello"
