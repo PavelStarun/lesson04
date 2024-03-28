@@ -10,4 +10,6 @@ elif a < b:
     print(a < b)
 else:
     print(a == b)
+c = 87
+d = 556
 
