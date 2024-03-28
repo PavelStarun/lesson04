@@ -1,15 +1,14 @@
+for i in range(9):
+    print("не то")
+c, d = 9, 8
 
-print("Я конфликтую")
 
-for i in range():
-    print("слово")
-a, b = 9, 8
+
 if a > b:
-    print(a > b)
-elif a < b:
-    print(a < b)
+    print(c > d)
+elif c < d:
+    print(c < d)
 else:
-    print(a == b)
-c = 87
-d = 556
+    print(c == d)
 
+print("удалить")
